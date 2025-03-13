@@ -25,8 +25,11 @@ int main() {
 
     return 0;
 }
-/*
 
+
+
+
+/*
 cd f:\test\c++lern\helloworld
 Remove-Item -Recurse -Force .\build
 mkdir build
